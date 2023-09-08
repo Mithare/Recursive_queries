@@ -1,1 +1,1 @@
-# Recursive_queries
+# Recursive_queries - This complex SQL query is about finding all the family members from a given table. We need to group together members from the same family and then give a unique family id for each family.I have solved the problem using recursive sql query
